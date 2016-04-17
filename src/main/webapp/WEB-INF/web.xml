@@ -5,4 +5,6 @@
          http://java.sun.com/xml/ns/javaee
          http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          version="3.0">
+    <!-- Servlet无需在web.xml中配置 只需通过Java注解的方式来配置即可 -->
+
 </web-app>
